@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EWmTd2EpfpqDSpBOOxuKHIvmgKLsJZyo60qoLTwX/00=",
+  "Source": "ISBNValidator",
+  "BasePath": "_content/ISBNValidator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
